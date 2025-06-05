@@ -1,31 +1,46 @@
 import requests
-import datetime
+import os
+from datetime import datetime
 
 # === Config ===
+token = os.environ['GH_TOKEN']
 username = "ih-ci"
-max_mana = 1000  # Full bar at 1000 contributions
+max_mana = 1000
 readme_path = "README.md"
 marker_start = "<!-- MANA-START -->"
 marker_end = "<!-- MANA-END -->"
 
-# === Get current year contribution count from GitHub profile page ===
-response = requests.get(f"https://github.com/users/{username}/contributions")
-if response.status_code != 200:
-    raise Exception("Failed to fetch contribution data")
+# === GraphQL Query ===
+query = """
+query($userName:String!) {
+  user(login: $userName) {
+    contributionsCollection {
+      contributionCalendar {
+        totalContributions
+      }
+    }
+  }
+}
+"""
 
-# Count number of contribution days in the current year
-html = response.text
-contribs = [int(s.split('data-count="')[1].split('"')[0])
-            for s in html.split('<rect') if 'data-count="' in s]
-total = sum(contribs)
+headers = {"Authorization": f"Bearer {token}"}
+variables = {"userName": username}
+res = requests.post(
+    "https://api.github.com/graphql",
+    json={"query": query, "variables": variables},
+    headers=headers
+)
 
-# === Calculate Mana Bar ===
+data = res.json()
+total = data["data"]["user"]["contributionsCollection"]["contributionCalendar"]["totalContributions"]
+
+# === Mana Bar Logic ===
 percent = min(100, int((total / max_mana) * 100))
 bar = "█" * (percent // 5) + "░" * (20 - (percent // 5))
 
-tier = "Grandmaster" if percent >= 100 else \
-       "Adept" if percent >= 50 else \
-       "Novice"
+tier = "🪄 Grandmaster" if percent >= 100 else \
+       "🔋 Arcane Adept" if percent >= 50 else \
+       "💧 Novice"
 
 mana_block = f"""
 {marker_start}
