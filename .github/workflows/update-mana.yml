@@ -33,4 +33,4 @@ jobs:
           git config --global user.email "mana-bot@example.com"
           git add README.md
           git commit -m "🔁 Update Mana Gauge" || echo "No changes"
-          git push
+          git push --force
