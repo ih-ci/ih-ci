@@ -69,9 +69,15 @@
 
 ## 🔥 Mana Reserves
 
+
 <!-- MANA-START -->
-*Mana bar loads here*
+🧙 Mana Gauge:  
+`░░░░░░░░░░░░░░░░░░░░` — 0%
+
+🧪 Current Power Level: 0 contributions this year  
+🔋 Mana Tier: Novice
 <!-- MANA-END -->
+
 
 ---
 
