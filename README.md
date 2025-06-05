@@ -67,5 +67,13 @@
 
 ---
 
+## 🔥 Mana Reserves
+
+<!-- MANA-START -->
+*Mana bar loads here*
+<!-- MANA-END -->
+
+---
+
 ## 💰 Donate to My Mana Pool
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ihci) 
