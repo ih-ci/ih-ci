@@ -45,12 +45,14 @@ tier = "🪄 Grandmaster" if percent >= 100 else \
 mana_block = f"""
 {marker_start}
 🧙 Mana Gauge:  
+
 `{bar}` — {percent}%
 
 🧪 Current Power Level: {total} contributions this year  
 🔋 Mana Tier: {tier}
 {marker_end}
 """
+
 
 # === Update README.md ===
 with open(readme_path, "r", encoding="utf-8") as f:
