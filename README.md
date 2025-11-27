@@ -1,6 +1,6 @@
 # 🌸 ih-ci: The Terminal Mage
 
-> “Code is my body and caffeine is my sword.”
+> “Code is my body and caffeine is my blood.”
 
 ---
 
