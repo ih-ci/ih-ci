@@ -1,73 +1,73 @@
-# 🌸 ih-ci: The Terminal Mage
+# 🌸 ih-ci
 
 > “Code is my body and caffeine is my blood.”
 
 ---
 
-## 🧙‍♂️ Class: Terminal Mage  
-**Arc Title**: The Debugging Chronicles  
-**Guild**: StackOverflow Apprentices  
+## 🧙‍♂️ Class: Terminal Magus  
+**Title**: Idiot  
+**Guild**: Non-Affiliated  
 **Power Type**: Full-Stack Alchemist  
-**Familiar**: 🐍 Python — emotionally attached summon  
+**Familiar**: 🐍 Python, an emotionally attached summon  
 
 ---
 
 ## 🎮 Character Stats
 - **Level**: 21  
-- **XP**: 1337  
-- **Mana**: 82% (recharged with coffee and chaos)  
+- **XP**: 69  
+- **Mana**: 67% (recharged with coffee and chaos)  
 - **Quests Completed**: 37  
-- **Main Weapon**: Python Staff +1  
-- **Passive Skill**: Stack Overflow Scroll 📜  
+- **Main Weapon**: Tree Branch 
+- **Passive Skill**: Procrastination  
 - **Alignment**: Chaotic Neutral (with good intentions)
 
 ---
 
 ## 🎒 Inventory
-- 🧠 Brainstorm Notebook (mostly empty)  
-- 🧃 Energy Elixir (G FUEL variant)  
-- 🔧 Bug Spray (ineffective vs production bugs)  
-- 🖱️ RGB Mouse (adds +5 speed, no actual skill)  
-- 📦 Infinite TODO List (cursed item)  
+- Brainstorm Notebook (mostly empty)  
+- Energy Elixir (G FUEL + Monster variant)  
+- Bug Spray (ineffective vs production bugs)  
+- Analog RGB Keyboard (adds +5 speed, +∞ flashiness)  
+- Infinite TODO List (cursed item)  
 
 ---
 
 ## 📜 Quest Log
 
 ### 🧾 Active Quests
-- [ ] Create new, public projects  
+- [ ] Check in, log out
 - [ ] Learn Rust without rage quitting  
-- [ ] Survive finals without turning into a PDF  
+- [ ] Survive "School"
 
 ### 🔮 2025 Fate Scroll
-- ✅ Stop pushing to `main` like a chaotic gremlin  
-- 🚧 Finally finish that one project I keep restarting  
-- 🌱 Contribute to 3 open-source scrolls  
-- 🤝 Survive semester side-quests without respawning  
+- Stop pushing to `main` like a chaotic gremlin  
+- Finally finish that one project I keep restarting  
+- Contribute to 3 open-source scrolls  
+- Survive semester side-quests without respawning  
 
 ---
 
 ## 💬 NPC Dialog: About Me
 
-🎮 Developer. Tinkerer. Occasional sleep-deprived wizard.  
-🍿 Full-stack ambitions, snack-stack realities. I code, crash, and Ctrl+Z with style.  
-📚 Studying Computer Science — basically grinding StackOverflow for XP.  
+🎮 Developer. Tinkerer. Sleep-deprived.  
+🍿 Full-stack ambitions, snack-stack realities. I code, crash, Ctrl+Z, repeat.  
+📚 Studying Computer Science... basically grinding StackOverflow for XP.  
 🔧 Languages:  
   🐍 Python (emotional support spell)  
   📜 JavaScript (chaotic spellbook)  
   ✨ HTML/CSS (cosmetic enchantments)  
 
-👾 IRL Status: Debugging life and code — not necessarily in that order.  
+👾 IRL Status: Debugging life and code... not necessarily in that order.  
 📬 Message Me:  
-- 🕊️ Email: delivered by encrypted pigeons  
-- 💬 Discord: screaming into the void  
-- 💻 GitHub: you're already here — fate has brought us together  
+- Email: delivered by encrypted pigeons  
+- Discord: screaming into the void  
+- GitHub: you're already here... fate has brought us together  
 
 🧠 **Fun Fact**: Debugged for hours... turns out I misspelled `function`. Legendary.
 
 ---
 
-## 🔥 Mana Reserves
+## Mana Reserves
 
 
 
@@ -250,7 +250,7 @@
 <!-- MANA-START -->
 🧙 Mana Gauge:  
 
-`██░░░░░░░░░░░░░░░░░░` — 14%
+`██░░░░░░░░░░░░░░░░░░` ... 14%
 
 🧪 Current Power Level: 145 contributions this year  
 🔋 Mana Tier: 💧 Novice
