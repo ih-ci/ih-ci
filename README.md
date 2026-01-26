@@ -306,14 +306,16 @@
 
 
 
+
 <!-- MANA-START -->
 🧙 Mana Gauge:  
 
-`██░░░░░░░░░░░░░░░░░░` — 10%
+`█░░░░░░░░░░░░░░░░░░░` — 9%
 
-🧪 Current Power Level: 102 contributions this year  
+🧪 Current Power Level: 95 contributions this year  
 🔋 Mana Tier: 💧 Novice
 <!-- MANA-END -->
+
 
 
 
