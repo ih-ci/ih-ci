@@ -33,12 +33,16 @@ GitHub: `ih-ci`
 
 ## Momentum Meter
 
+
 <!-- MANA-START -->
+🧙 Mana Gauge:  
 
 `░░░░░░░░░░░░░░░░░░░░` — 2%
 
-Status: cleaning up old work, rebuilding consistency, and portfolio reconstruction.
+🧪 Current Power Level: 26 contributions this year  
+🔋 Mana Tier: 💧 Novice
 <!-- MANA-END -->
+
 
 ---
 
