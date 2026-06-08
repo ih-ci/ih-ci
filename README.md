@@ -40,14 +40,16 @@ GitHub: `ih-ci`
 
 
 
+
 <!-- MANA-START -->
 🧙 Mana Gauge:  
 
-`░░░░░░░░░░░░░░░░░░░░` — 2%
+`░░░░░░░░░░░░░░░░░░░░` — 0%
 
-🧪 Current Power Level: 26 contributions this year  
+🧪 Current Power Level: 3 contributions this year  
 🔋 Mana Tier: 💧 Novice
 <!-- MANA-END -->
+
 
 
 
